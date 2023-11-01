@@ -1,4 +1,4 @@
 # Simple_Alarm
-This is a fun small project of making a python based alarm clock. 
+This project involves the creation of a Python-based alarm clock.
 
-**note:** you have to give the path of the audio file its not pre added, this code needs a py lib named pygame type **"pip install pygame"** in the terminal to install the lib
+**NOTE:** To use this application, you are required to specify the file path for the audio alarm. Please note that the project relies on the 'pygame' library, which can be installed by executing the 'pip install pygame' command in your terminal.
